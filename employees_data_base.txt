@@ -1,0 +1,6 @@
+Agrafkowski Arkadiusz M 3 7278.5 35 2
+B***a Magdalena F 5 5720.0 25 1
+C***z Patrycja F 1 4050.0 25 0
+D****a Amanda F 4 4978.25 24 1
+Nowakowski Michal M 3 6810.45 40 3
+Polkowski Michal M 2 6348.0 36 3
